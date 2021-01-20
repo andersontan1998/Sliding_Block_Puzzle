@@ -1,6 +1,6 @@
 # *Sliding Block Puzzle*
 
-The objective is to slide the blocks around so that the large square can slide through the hole at the bottom of the box.
+The objective is to slide the blocks around so that the large square can slide through the hole at the bottom of the box, which is just wide enough for the large square.
 
 Implemented by **Anderson Tan**
 
@@ -28,4 +28,8 @@ The purpose of this project is to compute a solution (if one exists) from any gi
 
 ![](solution_gif.gif)
 
+**Notes:**
 
+"Terminate called after throwing an instance of std::bad_alloc'"
+
+Error message happens when the operating system runs out of memory and could not dedicate any more RAM to the program. This can happen if you are running on a virtual machine that is dedicated a low amount of RAM.
