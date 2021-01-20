@@ -1,6 +1,6 @@
 # *Sliding Block Puzzle*
 
-The objective is to slide the blocks around so that the large square can slide through the hole in the bottom of the box.
+The objective is to slide the blocks around so that the large square can slide through the hole at the bottom of the box.
 
 Implemented by **Anderson Tan**
 
