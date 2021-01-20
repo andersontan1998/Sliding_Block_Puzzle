@@ -32,4 +32,4 @@ The purpose of this project is to compute a solution (if one exists) from any gi
 
 "Terminate called after throwing an instance of std::bad_alloc'"
 
-Error message happens when the operating system runs out of memory and could not dedicate any more RAM to the program. This can happen if you are running on a virtual machine that is dedicated a low amount of RAM.
+Error message happens when the operating system runs out of memory and could not dedicate any more RAM to the program. This can happen if you are running on a virtual machine that is dedicated low amounts of RAM.
