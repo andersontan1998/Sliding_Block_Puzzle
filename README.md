@@ -8,7 +8,7 @@ Implemented by **Anderson Tan**
 
 ![alt text](https://github.com/andersontan1998/Sliding_Block_Puzzle/blob/master/pieces.PNG)
 
-The starting configuration of the pieces: 
+**The starting configuration of the pieces:** 
 
 ![alt text](https://github.com/andersontan1998/Sliding_Block_Puzzle/blob/master/starting.PNG)
 
